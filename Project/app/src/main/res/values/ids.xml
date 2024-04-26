@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="et_bill" type="id" />
+    <item name="textView2" type="id" />
+    <item name="b_tip_minus" type="id" />
+    <item name="tv_tip" type="id" />
+    <item name="b_tip_plus" type="id" />
+    <item name="textView3" type="id" />
+    <item name="b_people_minus" type="id" />
+    <item name="tv_people" type="id" />
+    <item name="b_people_plus" type="id" />
+    <item name="b_calculate" type="id" />
+    <item name="textView4" type="id" />
+    <item name="tv_tip_output" type="id" />
+    <item name="textView5" type="id" />
+    <item name="tv_total_output" type="id" />
+</resources>
